@@ -1,0 +1,9 @@
+langchain
+openai
+jupyter
+ipykernel
+tiktoken
+python-dotenv
+pandas
+langchain-community
+langchain-openai
