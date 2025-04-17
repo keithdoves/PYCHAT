@@ -1,4 +1,6 @@
 langchain
+langchain_core
+langchain_community>=0.0.20
 openai
 jupyter
 ipykernel
@@ -7,3 +9,4 @@ python-dotenv
 pandas
 langchain-community
 langchain-openai
+networkx
