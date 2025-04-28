@@ -2,3 +2,6 @@ env/
 .env
 .cache/
 .streamlit
+.venv-312
+venv
+.streamlit
